@@ -17,4 +17,4 @@ phases:
       - mv target/* ./
 artifacts:
   files:
-    - target/*
+    - target/demo-0.0.1-SNAPSHOT.war
